@@ -17,6 +17,9 @@ patat:
 
 Hello! :)
 
+
+---
+
 # Let's try and cover Nix in 5 minutes
 
 - Nix - <https://nixos.org>
