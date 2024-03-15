@@ -68,7 +68,8 @@ Hello! :)
 - To do development you need many things
     - Python packages
     - System-level libraries
-    - Linters, Formatters, ...
+    - Inspection/Interaction tools: psql, postman, ...
+    - Linters, Formatters, Testing infrastructure, ...
     - Not necessarily in the same language
 
 - *devShells*: Set up a shell with all of that
